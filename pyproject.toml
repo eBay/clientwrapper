@@ -1,0 +1,18 @@
+[project]
+name = "clientwrapper"
+version = "0.0.7"
+authors = [
+    { name="Joseph Gonzalez Diaz", email="jgonzalezdiaz@ebay.com" },
+]
+description = "Python Util Package for Applying Dictionary syntax"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache 2.0",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.corp.ebay.com/jgonzalezdiaz/clientwrapper"
+Issues = "https://github.corp.ebay.com/jgonzalezdiaz/clientwrapper/issues"
