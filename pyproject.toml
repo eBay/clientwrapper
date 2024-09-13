@@ -1,6 +1,6 @@
 [project]
 name = "clientwrapper"
-version = "0.0.7"
+version = "1.0.0"
 authors = [
     { name="Joseph Gonzalez Diaz", email="jgonzalezdiaz@ebay.com" },
 ]
@@ -14,5 +14,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/ebay/clientwrapper"
-Issues = "https://github.com/ebay/clientwrapper/issues"
+Homepage = "https://github.corp.ebay.com/jgonzalezdiaz/clientwrapper"
+Issues = "https://github.corp.ebay.com/jgonzalezdiaz/clientwrapper/issues"

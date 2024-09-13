@@ -1,3 +1,3 @@
-__all__ = ['ClientWrapper']
+__all__ = ['ClientWrapper', 'BasicMapping', 'ResponseMapping']
 
-from clientwrapper import ClientWrapper
+from clientwrapper import ClientWrapper, BasicMapping, ResponseMapping
