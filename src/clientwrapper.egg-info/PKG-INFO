@@ -3,8 +3,8 @@ Name: clientwrapper
 Version: 1.0.0
 Summary: Python Util Package for Applying Dictionary syntax
 Author-email: Joseph Gonzalez Diaz <jgonzalezdiaz@ebay.com>
-Project-URL: Homepage, https://github.corp.ebay.com/jgonzalezdiaz/clientwrapper
-Project-URL: Issues, https://github.corp.ebay.com/jgonzalezdiaz/clientwrapper/issues
+Project-URL: Homepage, https://github.com/ebay/clientwrapper
+Project-URL: Issues, https://github.com/ebay/clientwrapper/issues
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: Apache 2.0
 Classifier: Operating System :: OS Independent
