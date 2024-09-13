@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+src/clientwrapper/__init__.py
+src/clientwrapper/basicmapping.py
+src/clientwrapper/clientwrapper.py
+src/clientwrapper/responsemapping.py
+src/clientwrapper/utils.py
+src/clientwrapper.egg-info/PKG-INFO
+src/clientwrapper.egg-info/SOURCES.txt
+src/clientwrapper.egg-info/dependency_links.txt
+src/clientwrapper.egg-info/top_level.txt
+src/test_clientwrapper/__init__.py
+src/test_clientwrapper/test_basicmapping.py
+src/test_clientwrapper/test_clientwrapper.py
